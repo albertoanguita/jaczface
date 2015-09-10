@@ -1,0 +1,17 @@
+<peer-client-config>
+    <peer-id>pid{0000000000000000000000000000000000000000001}</peer-id>
+    <port>10000</port>
+    <nick></nick>
+    <state>UNDEFINED</state>
+    <message></message>
+    <peer-server-data>
+        <ip>138.100.11.51</ip>
+        <port>50000</port>
+    </peer-server-data>
+    <friend-peers></friend-peers>
+    <blocked-peers></blocked-peers>
+    <max-upload-speed>null</max-upload-speed>
+    <resource-assignation-accuracy>0.5</resource-assignation-accuracy>
+    <temp-downloads-directory>alb</temp-downloads-directory>
+</peer-client-config>
+

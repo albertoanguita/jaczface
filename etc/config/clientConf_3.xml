@@ -1,0 +1,28 @@
+<peer-client-config>
+    <nick>miki</nick>
+    <state>ONLINE</state>
+    <message>estoy trabajando</message>
+    <port>10002</port>
+    <peer-id>pid{0000000000000000000000000000000000000000003}</peer-id>
+    <peer-server-data>
+        <ip>138.100.11.51</ip>
+        <port>50000</port>
+    </peer-server-data>
+    <friend-peers>
+        <peer>
+            <peer-id>pid{0000000000000000000000000000000000000000002}</peer-id>
+            <nick>jor</nick>
+            <message>comiendo</message>
+        </peer>
+        <peer>
+            <peer-id>pid{0000000000000000000000000000000000000000001}</peer-id>
+            <nick>alb</nick>
+            <message>estaba programando...</message>
+        </peer>
+    </friend-peers>
+    <blocked-peers>
+    </blocked-peers>
+    <max-upload-speed>null</max-upload-speed>
+    <resource-assignation-accuracy>0.5</resource-assignation-accuracy>
+    <temp-downloads-directory>D:\Proyectos\jacuzzi-temp</temp-downloads-directory>
+</peer-client-config>
